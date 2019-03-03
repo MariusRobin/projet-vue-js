@@ -1,0 +1,39 @@
+{
+  "name": "projet-film-marius",
+  "version": "1.0.0",
+  "description": "Projet web",
+  "main": "node/app.js",
+  "author": "Marius ROBIN <marius.rob1@gmail.com>",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.1.3",
+    "dateformat": "^3.0.3",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "multer": "^1.4.1",
+    "popper.js": "^1.14.6",
+    "vue": "^2.5.21",
+    "vue-axios": "^2.1.4",
+    "vue-rate-it": "^2.1.0",
+    "vue-router": "^3.0.2",
+    "vue-star-rating": "^1.6.1",
+    "vuejs-datepicker": "^1.5.4",
+    "vuetify": "^1.4.6",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "css-loader": "^2.0.0",
+    "file-loader": "^2.0.0",
+    "vue-loader": "^15.4.2",
+    "vue-template-compiler": "^2.5.21",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
